@@ -1,0 +1,8 @@
+[Match]
+Name=br0.7
+
+[Network]
+#DNS=10.168.0.1
+Address=10.168.0.2/24
+#Gateway=10.168.0.1
+#DHCP=yes

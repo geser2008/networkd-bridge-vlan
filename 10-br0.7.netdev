@@ -1,0 +1,6 @@
+[NetDev]
+Name=br0.7
+Kind=vlan
+
+[VLAN]
+Id=7

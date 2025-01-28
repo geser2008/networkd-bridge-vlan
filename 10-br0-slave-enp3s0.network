@@ -1,0 +1,11 @@
+[Match]
+Name=enp3s0
+
+[Network]
+Bridge=br0
+
+[BridgeVLAN]
+VLAN=7
+VLAN=99
+PVID=99
+EgressUntagged=99
